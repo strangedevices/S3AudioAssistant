@@ -1,5 +1,3 @@
----
-
 **Oni AI Assistant Documentation**
 
 This repository contains the Arduino code for **Oni**, an AI assistant built using the [M5Stack CoreS3](https://docs.m5stack.com/en/core/CoreS3) and [M5Stack Module LLM](https://docs.m5stack.com/en/module/Module-LLM). Oni is a voice-activated assistant supporting wake word detection, speech recognition, and language model inference with a touch-based interface.
